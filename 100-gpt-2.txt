@@ -1,0 +1,200 @@
+figprint.c:70-91 (commentary) allows local users to gain privileges via manipulations of temporary process data.
+====================
+A vulnerability in the way a javascript.dll executes in the context of the current user could allow an attacker to run arbitrary code within the context of the current process. For more information about this vulnerability, see the Details section of this CVE.
+====================
+18.0.2.91 Node.js module can be processed by expected classpath that does not have a v Amethyst override. If an attacker is able to inject an 'x` parameter, and has strong unescaped inputs that result in the creation of an XAML object, they can inject the 'x` parameter to create a XAML object."
+====================
+BEIJING (Reuters) - The Financial Services Administration of China proposed higher restrictions on rebates on some Chinese tech platforms that were not backed by a bank account, to prevent e-commerce China from being run on the internet, a person with knowledge of the matter told Reuters.
+====================
+RacingOpen 5.5.0 allows remote attackers to cause a denial of service (application crash) via a crafted low resolution movie in a stream with a DIV attribute of type ""C_PIC_High."""
+====================
+GroupMe UI on Android < V1.5.5 Build 18091198 allows a data leak in main/common_navigation_panel.php via unspecified vectors.
+====================
+Driver Information Disclosure Information Disclosure/Reset Password Information Disclosure Information Disclosure Information Disclosure Information Disclosure Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information Disclosure Information
+====================
+IDWP CGI before 1.2 allows remote attackers to cause a denial of service (daemon crash) via unknown vectors.
+====================
+Wordpress 3.x-1.x before 3.0 SP2, 4.x-1.x before 4.0.1 SP2, and 4.1.x-1.x before 4.1.4 allows remote attackers to bypass the Same Origin Policy via unspecified vectors.
+====================
+"In the Synaptics EMC Service App 3510, a context-sensitive (as in, specially, on-demand events) remote application can be accessed via redirect. The service app runs through the SYSCallow event handler with no authentication, which can be triggered by an unintended action. The synaptics-cexlive-chromium-firmware account can also be accessed via direct request to the service app."
+====================
+Michael Bradley is New Student Management Manager (SAMM), the vSCM Page Player Software for Windows, VCSM Player Software for Linux, and xLSM Player Software for Windows. Michael is a registered Author, Contributor, and Project Manager for SCM User Manager. Michael has at least 1 openSMS installation and server of the software through the Applet, Applet Forum, or the Certificate Manager. Michael has similar functionality for vSAN and SCM versions. Michael has been featured
+====================
+Jenkins for Android was released in spring 2014 due to vendor issues. In Jenkins Android, if the user initializes a path handling permission v1, the permission could be overridden via the newVersionConf optional permission check, which was found to be insecure and unsafe. The backend API has a separate vulnerability that this would result in a sandboxed path to the root system. Due to an upstream issue, there is no workaround available for users who are newly inside the Android versioning process on Jenkins.
+====================
+Cross-site scripting (XSS) vulnerability in the User Login feature in the Marketing component in Cobsoft Portal 4.6 build 9243 allows remote authenticated users to inject arbitrary web script or HTML via the username parameter.
+====================
+"Microsoft Internet Explorer 10 through 11 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via an ""XORed,"" the .EXE command, aka ""Internet Explorer Memory Corruption Vulnerability,"" a different vulnerability than CVE-2013-0095, CVE-2013-0096, CVE-2013-0126, CVE-2013-0127, CVE-2013-0290, CVE-2013-0294, CVE-2013-0296
+====================
+"When using in human-readable files, the traffic can be decrypted because of a long time sbwrite_write pattern in the kernel."
+====================
+Microsoft Ignite 3.0.5 allows remote attackers to bypass authentication via a crafted email.
+====================
+A vulnerability in the InSource feature of Cisco Cobalt Ethernet Integrated Services Controller (IGIC) could allow an unauthenticated, remote attacker to execute arbitrary code on an affected device. The vulnerability is due to improper input validation. An attacker could exploit this vulnerability by submitting crafted packets to the affected device. A successful exploit could allow the attacker to execute arbitrary code on the affected device. The attacker could then execute arbitrary code on the device with kernel privileges. A successful exploit could allow the attacker to execute
+====================
+We recommend playing Firefox 11.x to prevent risks from a user from leaking secrets to a browser. As a workaround, you can disable this feature by changing the cookies and real-time session settings."
+====================
+Chrome phones, and older versions of the Firefox OS (version 5.0.0 build 4548) are affected by a memory leak vulnerability when JavaScript is enabled outside of a privileged context, which might allow remote attackers to cause a denial of service (memory consumption) or possibly have unspecified other impact via a crafted web site."
+====================
+"In freesktop.org during login, there is a possible remote code execution, because chown or IFF cannot execute the ""potentially runced"" command."
+====================
+Kernel for Powerline (KPU) Linux allows a Denial of Service attack by a privileged user. The vulnerability is caused by a stored XSS vulnerability. A malicious user with Advanced privileges could exploit this through the local /dev/tcp/powerline/rspv4. An attack vector could be malicious code or an application that does not sufficiently validate user-supplied input data. An attacker is able to exploit this vulnerability by sending a crafted packet to the target system. An
+====================
+PHP remote file inclusion in calendar_plugin.php in DHandler 1.2.5 and earlier, when a parameter is not set, allows remote attackers to download arbitrary PHP remote files via a browse action."
+====================
+PHP 1.3.x before 1.3.11, 1.3.10.x and 1.3.11.x before 1.3.11 allows attackers to bypass the h2tp_lookup_npc function via the _atclr4 header.
+====================
+"An issue was discovered in kernels through 4.8.8. CanNAA allows a remote attacker to cause a denial of service (crash) via a crafted packet to the Maestro's country code's address, possibly via a ""routing fault."""
+====================
+WSM Archer 5.1.3, 5.2, and 6.x before 6.0.1.5 has XXE for UPAN authentication with an ownership based security role. The server does not have any role for an authentication using the XLAuth value that is passed to the server_admin_auth.php?ourse_id=pass and echoes it back to the server_admin_auth.php?sym=pass_request.
+====================
+Virtual Form or SD image wpanari ppUp ,pdacsejpegmppup ,rap2013pup ,scannla_ssf_pdacssflevelup ,se_sdpi_psv4up and sawpprizeprup_tsv4up wpanari ppUp & SD image wpanari ppExtreme #USSR980-0013/#USSR883A Feb 11, 2013
+====================
+Bulk upload of many files allows an attacker to bypass authentication by introducing random object and URL parameters.
+====================
+Marek Gutech app for Android and Wear device has a disabled 'on_suspend' value due to crafted notification. This could lead to a root-level privilege escalation.
+====================
+Unspecified vulnerability in the TCP/IP component in Cisco IOS XR and IOS XR Software 3.2.6 and 3.5.x allows remote attackers to affect availability via unknown vectors.
+====================
+UPDATE: A regression has been discovered in the NovaDB CGI program. The Race Traversal vulnerability exists in the ndb_db_Match function, which matches arbitrary users or groups (non-player) in a subset of files referencing the previous matching file. In the vdb_db_Match function in ndb.dll, there is an assertion failure (and returning false) 'from whose owner (i.e., user) exists' with a large number of possible values in the
+====================
+Cross-site request forgery (CSRF) vulnerability exists in the Broker NPAServer component in GEMTek Active Apps 2.1.24 and prior, potentially exploitable by remote attackers to perform a serialization attack.
+====================
+Type Management, (directly mentioned) in Rust 0.9.22 and earlier, and LLVM 5.7.5 and earlier, before commit 2a6e665df53f1a652de0a249ed1b72f4ea54d5a, allow XSS related to chat ('-C' in the Chat channel), news downloads ('-rust-news' in the Releases channel), and footers ('-rust-footers' in the Views
+====================
+Create/Update admin installations using RSA Key API in Firmware C820119. These installations are affected by the same OS vendor path as RSA Key Core which contains the service provider and RSA Endpoint (RSE) private keys. RSA Key stores a private key secret key in plain text allowing the attacker to download any key and to use the password changing feature to unlock the private key in the third-party installation. This ability to control or modify a Key for exploitation is restricted to existing installations.
+====================
+MakraCore SMB via PKI mode for Windows Server 2003 SP2, Vista SP2, Server 2008 SP2, Server 2012 Gold and SP2 is vulnerable to cross-site scripting. A user with scripting privileges could exploit this vulnerability to execute arbitrary script code in the context of the affected system. Was ZDI-CAN-76616.
+====================
+Repurpose the HTTP based proxy that is used on the server by Bitdefender Bitdefender Open Source prior to version 6.7.5 and prior to version 4.13.
+====================
+"Thinkpw.sys in TianXiao CinepakSoft Xinxicring 0.76.3, and all known versions before 0.88.3, allows remote attackers to obtain sensitive information (system information about application users) via a command injection attack. The host_name parameter to the query string also contains sensitive information. NOTE: The fixed-length values for the host parameter are not disclosed in the bug report."
+====================
+D-Link DCS-GXX V8.3.0 ACHIKTV R3600 V8.3.0 H.11.001.11.103 devices allow remote attackers to inject arbitrary web script or HTML via a link href that is not properly handled by the H.11.006 link header.
+====================
+"Adobe Reader Version 9.0.x and 10.0.x before 10.0.16, 11.0.x and 11.1.x before 11.1.11 and 12.0.x before 12.0.5 on Windows, Adobe AIR before 5.0.4 and Adobe AIR SDK before 5.0.4 allow attackers to execute arbitrary code via a crafted web site, a different vulnerability than CVE-2010-3397, CVE-2010-
+====================
+"An arbitrary memory write vulnerability exists in Windows due to an incorrect passcode for a security engine that passes a character from the DLL library, aka 'Windows DLL Component Remote Code Execution Vulnerability'."
+====================
+Swanpoint x265 through 2017.1.8.62 allows remote attackers to execute arbitrary OS commands via unspecified vectors.
+====================
+Servlet in Squid Linker 3.6 and 3.8 allows remote attackers to cause a denial of service (daemon crash) via a request that includes an extra Exception handler header.
+====================
+3.3.4 in Apple Mac OS X 10.4.6 and 10.4.7 allows local users to gain privileges or cause a denial of service via unspecified vectors.
+====================
+The NFS filesystem. The NFS_WRSTOCK_sysfs ioctl and NFS_WRSTOCK_sysfs ioctl are vulnerable to an integer underflow. An attacker could leverage this vulnerability to achieve remote denial of service.
+====================
+I ogENT! (aka iDWatch) is an open source web application for booking, scheduling, and tracking. License Software Version 2.02 is affected. A malicious actor opens a page on a booking site and proceeds to upload a crafted event document. The victim can then view and modify the document without encountering any validation problems. The users of this application are given only one (1) free booking and (2) trial tickets that can be used to view, edit, delete, and
+====================
+"NFS3D v2.16.1.4732 allows local users to gain privileges via a Trojan horse gdb4jpc.sys.dll file, related to a ""OLE accounting manipulator"" vulnerability."
+====================
+Reader/Builder versions earlier than 3.9.2 build 45603 contain an exception checking issue in the (1) serializer and (2) client serializers of the sysRclFunc implementation. In a sense, an attacker can cause a write to a serialization descriptor even though the value of the DBRFlag is not explicitly usable. This could lead to validity errors and code execution, or possibly be an integer overflow."
+====================
+The XScreen ActiveX control in Xen 4.10.3.2 allows remote attackers to execute arbitrary code via a long string in a command line argument to the SNTP TCP_FP_PVOIP_IP_ClientSocket_accept directive.
+====================
+The backend implementation in Handler/LatencyLayer.cpp https://github.com/phondiamanti/framework/blob/454002c571fef2db21c1fd2fa9f1176fa62408a and possibly other versions
+====================
+Apple QuickTime and iTunes for Microsoft Office versions 15.2.0.20064 and earlier; 15.2.1.632 and earlier; 16.1.0.6109, 15.1.0.6598, 15.1.1.6786, 16.1.0.6771, and 15.1.1.6830; and 16.1.1.6747 and earlier versions allow remote attackers to cause a denial of service (application
+====================
+"In the kernel before 4.3.11, there is an out-of-bound buffer read. An attacker could leverage a buffer overflow to achieve a denial of service."
+====================
+Óliver Óliver A. 1862732.
+====================
+When using ZeroMQ for your access control in servers, you need to set the master password to the default value. This will allow you to login without being enabled. The challenge is to not show this to the users due to setting up the master password ('password_admin') or ('password_admin') for a master server. Also, make sure that the frontend has the ability to view information about the connections.
+====================
+Philips 39, TRS300 before 1.2.0(54)."
+====================
+CMSOne before 5.5.3 is vulnerable to SQL Injection according to the administrative link. An authenticated user can exploit this vulnerability by sending a request to 127.0.0.1:8050 for the CMSOne administrator URL. By using malformed input an out-of-bound SQL test can be performed. The flaw is loaded from the server via the add-plugin feature. When the HTTP request structures are processed by the SQL query one can run a SQL injection attack
+====================
+XXIMPRO Tools Setup 1.99.3900.0 allows remote attackers to cause a denial of service via crafted HTTP or HTTPS requests.
+====================
+Race Conditions: The jQuery component in (1) Fetch.js and (2) Contact.js before 0.1.11 allows remote attackers to execute arbitrary code via an HTML array containing a malicious Javascript handler that leverages the failure of an eval() operation.
+====================
+'Attach manually triggers'<|endoftext|>A vulnerability was discovered in the backend of Cisco IOS XR 7.5 through XR 6.0 XR2, IOS XR 6.0 and earlier. The highest threat from this vulnerability is to data confidentiality and integrity.
+====================
+"The Google Security product in BlackBerry 10 and 10.1, as well as Google Chrome, has a buffer overflow in the WAR reduction investigation protection, which allows user-assisted remote attackers to execute crafted web scripts or HTML via unspecified vectors."
+====================
+dispatch/new_html_assets_";
+====================
+Eventcom RV-1024 CTG V2 and 3.5.2 allows remote attackers to execute arbitrary code because the component, RealAd-Ad (aka RDA) Plugin, contains a long time-based authorization pattern that prevents a view from being able to add the view to the database. An unauthenticated attacker could exploit this issue by setting the default View setting for the database. An exploit could allow the attacker to view the database for all view users."
+====================
+ALCISUS GZ10T10 V4.1.8.9850 uses world readable executable credentials for location-based authentication. Command injection can occur in the CLI or by using the shell to execute arbitrary commands.
+====================
+"We have introduced a security feature in iTunes for which an authenticated user has access in app/Shared AWS Elements, that could convert the media streaming URL to streaming by a user with an access to the extracted media streams, and would not require a user agent."
+====================
+TextView is an earlier version of MetaView which allows user editing of files. The project is named CommentsViewHelper and provides a direct access rendering of the modules as well as text content via a file or name. The examples package from a high end project utilizes the com.sipio.modules.CommentViewHelper class: A module that exposes the parameter list as a child property of the module. Note that the descrilegend is a generic object's value and only reference the
+====================
+CartelCart iOS App for DCS-AM FTW 6.x, DCS-AM FTW 7.x, and CartelCart SE Compact App for DCS-AM FTW 7.x allows arbitrary code execution within the application because certain shader code mishandles objects that are not the client. CVSS 3.1 Base Score 3.7 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR
+====================
+The StreamMEM adapter 3.5 versions prior to 3.5.2-P2 allows local users to cause a denial of service (device restart) by creating a daemon session with a long filename in the /data/stream/MEM buffer.
+====================
+NovaCAN-SA V3.1.0 is vulnerable to an unquoted service path in NovaCAN-SA V3.1.0 that results in a privilege escalation attack to escalate on the machine.
+====================
+A web-based HTML-based pointer deserialization vulnerability in the RMM daemon of Cisco IOS XE Software might allow an attacker to execute a buffer over-read in the RMM daemon. A local attacker with access to the router can leverage the vulnerability to achieve remote denial of service, denial of service, and code execution. For more information about this vulnerability, see the Details section of this advisory."
+====================
+Audiuzz Inc. provides an initial and complete authentication token for attacker controlled devices. An attacker with access to a device's power socket may send a username and password to a device's security site on an available, available network.
+====================
+"All versions from 4.1.14, 4.2.8 is affected by a stored cross-site scripting (XSS) vulnerability in SQL. An unauthenticated clickjacking web attacker could execute malicious JavaScript code in Oracle Database Server. A successful exploit could allow the attacker to cause reflected XSS and reflected Cross-Site Scripting in displays even when a userops the malicious page. This issue can occur when a user visits a malicious link."
+====================
+Mozilla Firefox 1.0.x and 2.0.x has a vulnerability in the authenticate() method that allows remote attackers to modify an unspecified color image via a crafted web site that lacks handling of a ""name string index". An attacker could exploit this vulnerability to execute arbitrary code in the context of the current user. This is a similar issue to CVE-2015-29918."
+====================
+The iQFX3000 (aka qxftd) kvm allows remote attackers to cause a denial of service via malformed TCP packets.
+====================
+TextLinesScript 2.00.3 has Unicode character set vulnerability due to architectural where curly loop (chunkers) are mishandled when creating code that can access the parenthesized text.
+====================
+Flexpress is a free automation system for Folsom. A vulnerability in index.php?p=flexpress&truncation= allowed a local attacker to-do-list account where the code to paste the admin credentials into the administrator database using PHP. The admin account was restored, and users were able to perform administrative actions such as delete.php. The attacker could supply a crafted cookie to display the cookie, and modify the cookie payload to list other users to-do-
+====================
+By Aberdeen-based Information & Monitoring & Security (ivSMS) Using Services 2.1.0.8 allow remote attackers to cause a denial of service (memory consumption) via a crafted RPC request.
+====================
+Fancaso Image Server 1.10.1 allows remote attackers to cause a denial of service via a malformed .gif file.
+====================
+"An issue was discovered in the Linux kernel through 4.16.1. There is a heap-based buffer overflow in the fast_file_allocation function associated with APRmembuf in apr_file_alloc func, related to HunterMembuf and ProjectFile_GoodMembuf. There is no other known buffer buffer overflow on the system, which allows attackers to cause a denial of service (daemon crash) or possibly gain privileges via vectors related to NTODecomrl
+====================
+Multiple authentication bypass vulnerabilities in Sonatype BlackArcade Suite before 1.14.1 allow remote attackers to bypass authentication via unknown vectors.
+====================
+"In systemd before 1.4; 1.4.5, 1.7, and 1.8.2, there exists a possible out of bounds write due to missing bounds check. This could lead to a remote administrative attack. User interaction is not needed for exploitation. Product: AndroidVersions: Android-10Android ID: A-119319376"
+====================
+Power Management Device Manager (PMD) v1.15.1 Build 1350. An attacker can inject an arbitrary web script or HTML via the default phd cookie configuration.
+====================
+activePixel.dll - ActivePixels.dll (aka emppic or popularizing imap or emppixel for Windows) in ActivePixel ActivePixel ActivePixel ActivePixel ActivePixel ActivePixel ActivePixel ActivePixel ActivePixel ActivePixel (aka imap or imap for Windows) in ActivePixels ActivePixel ActivePixel ActivePixels ActivePixel ActivePixels ActivePixel ActivePixel in ActivePixel ActivePixels ActivePixels ActivePixel ActivePixel in ActivePixel ActivePixels ActivePixel (
+====================
+The web-based web-based Android mobile application SIEMAN (1.20) is vulnerable to Unauthenticated Remote Code Execution (ReCORE) via a crafted serialized action. An attacker can send a crafted web-based message to cause an application to crash or restart, which could result in arbitrary code execution. The specific vulnerability is due to an improper validation of user-supplied data within the serialized action. An attacker can exploit this vulnerability by sending a crafted web-based
+====================
+Confusion attack via unprotected directory access
+====================
+"In GetHREF, there is a possible out of bounds write due to lack of padding. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is needed for exploitation. Product: AndroidVersions: Android-11Android ID: A-1520843317"
+====================
+Pages in Seagate TX Series LaserPanel 3.8 devices with firmware before 3.8.8.43BF have an information exposure vulnerability. Due to usage of highly bounded format elements (such as ISO 128-bit integers) and types of internal keys, it was possible to obtain server-side information about the current operating state of the device via the /var/run/htdocs/rr-rs-server.jsp file."
+====================
+Mozilla Firefox before 1.4.13.3 allows XSS when users are not viewing crafted pages via crafted X.509 certificates.
+====================
+Unspecified vulnerability in the Information Server (Networking) interface of Cisco IOS XR Series Switches and IOS XR Product Lineage Switches has unknown impact and attack vectors.
+====================
+Next-Generation IPsec VPN VPN can cause a discrepancy in Peripheral Security (PSK) address synchronization when connected to a PPP X. The previous-generation service is not affected and is not impacted.
+====================
+WordPress is an open-source WordPress plugin. WordPress uses the WordPress plugin from version 2.7.0 before 2.7.2 and from version 4.6.x before 4.6.5.
+====================
+The proxy_ldaprd.c extension for Apache HTTP Server 2.1 and 2.2 allows remote authenticated users to access redirect requests without proper privileges, if an illegal cookie is manually enabled. Note: This issue is fixed in 2.2.1."
+====================
+Decryptor_specific.sys is vulnerable to a buffer overflow in the decrypt_data function of Decryptor.mdl.
+====================
+All versions prior to 1.2.0.2.
+====================
+Associates groups may allow access to an active Proxy page. Successful exploitation of the affected vulnerability could lead to unauthorized X.509 authentication-out-of-bounds access to the shared DB when the /Applications/WebTestProxy is enabled. CVSS 3.0 Base Score 8.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C
+====================
+"In Linux kernel 2.4.x before 2.4.4-rc1, a heap-based buffer overflow exists with zeroXsses in tls_metadata_session_radia_buf() and tls_metadata_session_radia_buf_allocator_ibaf() during switch handling, as demonstrated by TELNET AR7104, TELNET G9330, TELNET G9600, TELNET G9560, TEL
+====================
+A command injection vulnerability has been found in MethodManager which could allow a remote attacker to inject commands that could send to any victim.
+====================
+Exodus File System (aka EXRC) 1.x before 1.3.6.6 allows local users to overwrite arbitrary files via a symlink attack.
+====================
+Apple ID: CSCu87453
+====================
+OSI Support Module (version: 1.1.0) contains an information disclosure vulnerability. An attacker could exploit this vulnerability by sending a malicious packet to an affected device. An exploit could allow the attacker to delete sensitive information from the device database or execute arbitrary code."
+====================
+This vulnerability allows attackers to cause a denial of service (DoS) condition of the device.
+====================
+"A cross-site scripting (XSS) vulnerability in the HTML digest of the XML essay of spring_marauders_case_controller.php in TO-TSR 0.91.2; when the User Agent is turned on and closed, allows attackers to inject arbitrary script directly into the authenticated SQL query, aka XSS."
+====================
+"In Finnish Office we also use Report Instance Directory as a backup for the nsListFile before dependency-inclusion assumption, but using a similar implementation to nsDomDirFile and also allowing private permissions on the nsListFile. In this case a load of data from the nsFile would then be loaded through nsDomDirFile and exposed. We can use reference count to use this in a leak attack because of lacking BalancedFocus checking."
+====================
